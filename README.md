@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan.</h1>
-<h3 align="center">With a solid foundation in neuroscience & psychology and a strong ambition to innovate in the world of iOS development, I am excited to embark on a new journey as an iOS developer.My ultimate goal is to merge my expertise in neuroscience with my newfound passion for iOS development to create applications that not only engage users but also provide meaningful experiences that cater to their cognitive and emotional needs. By combining my unique skill set, I aim to contribute to creating applications that positively impact users' lives, aligning both the scientific and technological worlds.</h3>
+<h3 align="center">With a solid foundation in neuroscience and psychology, combined with hands-on experience in iOS development, I’m passionate about creating apps that support users' mental, cognitive, and emotional well-being. My goal is to design mobile solutions that not only engage but also empower users to lead healthier lives. By leveraging my background in human behavior and my skills in iOS development, I aim to build applications that deliver meaningful, science-driven experiences, ultimately making a positive impact on users’ health and overall quality of life.</h3>
 
 - 🌱 I’m currently developing apps with **SwiftUI.**
 
