@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan.</h1>
 <h3 align="center">With a solid foundation in neuroscience & psychology and a strong ambition to innovate in the world of iOS development, I am excited to embark on a new journey as an iOS developer.My ultimate goal is to merge my expertise in neuroscience with my newfound passion for iOS development to create applications that not only engage users but also provide meaningful experiences that cater to their cognitive and emotional needs. By combining my unique skill set, I aim to contribute to creating applications that positively impact users' lives, aligning both the scientific and technological worlds.</h3>
 
-- 🌱 I’m currently learning **SwiftUI.**
+- 🌱 I’m currently developing apps with **SwiftUI.**
 
 - 📝 I regularly write articles on [https://medium.com/@adgzl.srkn](https://medium.com/@adgzl.srkn)
 
